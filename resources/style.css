@@ -13,7 +13,27 @@ h1{
   background-image: url(./images/the-flatiron-building.png);
 }
 
-li{
+ul{
   font-size: 18px;
   color: white;
+  list-style-type: none;
+}
+
+#design{
+  background-image: url(./images/the-flatiron-building.png);
+  color: white;
+  font-weight: bold;
+  font-size: 23px;
+}
+
+.foot{
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+
+a {
+  color: white;
+  font-size: 18px;
 }
